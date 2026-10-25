@@ -33,7 +33,7 @@
     "sharp": "^0.34.3",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.5"
   },
   "browserslist": [
     "last 2 versions, not dead, > 0.2%"
